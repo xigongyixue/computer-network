@@ -1,0 +1,17 @@
+1. link layer is responsibe for what?
+node to node/hop to hop delivery
+2. the packet in link layer is kown as frame
+3.the process of error detection and collection
+4. a concept of MAC protocol
+5.0 ARB
+
+what is the difference of IP layer,network lyaer,link layer?
+link layer only resopnsible to delivery frame one node to adjacent node only
+node to node/hop to hop delivery
+ip layer is responsible for deliverying packet from A host to B host. host to host delivery
+reliable server:link transport layer
+error dection: link layer crc,ip layer, trasnort layer (not phiscial layer)
+link physical layer card in card, network,transport layer in OS
+2D bit party is bettern than 1D
+CRC is a althirim in lin layer
+collision is possible in CSMA owing to delay
